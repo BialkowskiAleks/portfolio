@@ -1,4 +1,5 @@
 import Work9 from "../../assets/work9.png";
+import Work10 from "../../assets/work10.png";
 
 export const projectsData = [
 	{
@@ -6,7 +7,14 @@ export const projectsData = [
 		image: Work9,
 		title: "E-commerce",
 		category: "web",
-		url: "https://vercel.com/bialkowskialeks/next-ecommerce",
+		url: "https://next-ecommerce-one-delta.vercel.app",
+	},
+	{
+		id: 2,
+		image: Work10,
+		title: "Social-app",
+		category: "web",
+		url: "https://social-app-beta-lac.vercel.app",
 	},
 ];
 
