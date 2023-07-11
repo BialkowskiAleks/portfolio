@@ -103,7 +103,8 @@ a {
 	text-decoration: none;
 	transition: 0.4s;
 }
-
+hr {
+}
 button {
 	cursor: pointer;
 	border: none;
